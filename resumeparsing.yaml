@@ -1,0 +1,31 @@
+name: resumeparsing
+channels:
+- conda-forge
+- defaults
+dependencies:
+- asn1crypto=0.22.0=py36_0
+- ca-certificates=2017.7.27.1=0
+- certifi=2017.7.27.1=py36_0
+- cffi=1.10.0=py36_0
+- chardet=3.0.4=py36_0
+- cryptography=1.9=py36_0
+- idna=2.5=py36_0
+- openssl=1.0.2l=vc14_0
+- pip=9.0.1=py36_0
+- pycparser=2.18=py36_0
+- pyopenssl=16.2.0=py36_0
+- pysocks=1.6.7=py36_0
+- python=3.6.2=0
+- requests=2.18.3=py36_0
+- setuptools=36.2.2=py36_0
+- six=1.10.0=py36_1
+- tika=1.15=py36_0
+- urllib3=1.21.1=py36_1
+- vs2015_runtime=14.0.25420=0
+- wheel=0.29.0=py36_0
+- win_inet_pton=1.0.1=py36_1
+- wincertstore=0.2=py36_0
+- pip:
+  - win-inet-pton==1.0.1
+prefix: C:\Users\somav\Anaconda3\envs\resumeparsing
+
